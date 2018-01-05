@@ -5,4 +5,4 @@ sample p2p file transfer
 make
 
 # run
-./urtorrent <port> <torrent file>
+./urtorrent port torrent file
